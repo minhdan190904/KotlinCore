@@ -1,4 +1,4 @@
-fun add(vararg list : Int) : Int{
+fun add(vararg list: Int): Int {
     return list.sum()
 }
 
